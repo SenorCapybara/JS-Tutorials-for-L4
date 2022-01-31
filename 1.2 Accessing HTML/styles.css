@@ -1,0 +1,22 @@
+.errorMessage{
+    color:red;
+    font-weight:bold;
+}
+
+.styleOne{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2rem;
+    font-weight:bold;
+}
+
+.styleTwo{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2rem;
+    font-weight:bold;
+}
+
+.styleThree{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+    font-weight:bold;
+}

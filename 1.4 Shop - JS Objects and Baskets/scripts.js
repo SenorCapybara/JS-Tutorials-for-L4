@@ -1,11 +1,11 @@
 //define product array
 const products = [
-    "This is info fo product 1",
-    "This is info fo product 2",
-    "This is info fo product 3"
+    "This is info for product 1",
+    "This is info for product 2",
+    "This is info for product 3"
 ]
 
-var products1 = [
+var shoes = [
     {
         "id":1,
         "title":"Shoe1",
